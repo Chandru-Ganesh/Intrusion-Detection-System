@@ -34,7 +34,7 @@ The dataset contained **78 numerical flow features**, extracted using CICFlowMet
 ### 📁 Clone this Repo
 - git clone https://github.com/Chandru-Ganesh/Intrusion-Detection-System.git
 - cd Intrusion-Detection-System
-- 
+  
 ## 🔧 Install Dependencies
 Make sure Python is installed. Then run:
 - pip install -r requirements.txt
@@ -66,9 +66,9 @@ Class Labels	BENIGN, PORTSCAN
 Features Used	78 features (no column names in dataset)
 
 **❗ Notes**
-The input .csv must be raw CICFlowMeter output, where the label (BENIGN, PortScan, etc.) is at the last column of each row.
-
-The script auto-generates column names as F1, F2, ..., F78.
+- The input .csv must be raw CICFlowMeter output, where the label (BENIGN, PortScan, etc.) is at the last column of each row.
+- The script auto-generates column names as F1, F2, ..., F78.
+- This ML project testing video has been givin in github download it and watch.
 
 ## 📫 Contact
 Developed with 💻 by Chandru Ganesh :

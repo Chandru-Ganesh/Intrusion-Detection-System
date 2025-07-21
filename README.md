@@ -54,33 +54,25 @@ Since GitHub doesn't support files over 100MB, the model is hosted externally.
 ## ▶️ Run the Detector
 Once the model is placed:
 - python predict.py
-- 
+
 The script will:
 - Run and check the network "WiFi" or "Ethernet" (depends on your purpose)
 - Print results to terminal
 
-## 📁 Project Structure
-
-intrusion_detection_project/
-├── model.pkl                # 🔒 Trained ML model (place here)
-├── predict.py               # 🚀 Main prediction script
-├── train_model.py           # 🧠 (Optional) Training script
-├── requirements.txt         # 📦 Dependencies
-└── README.md                # 📘 Project documentation
-📈 Model Accuracy
+## 📈 Model Accuracy
 Metric	Score
 Accuracy	98.3%
 Class Labels	BENIGN, PORTSCAN
 Features Used	78 features (no column names in dataset)
 
-❗ Notes
+**❗ Notes**
 The input .csv must be raw CICFlowMeter output, where the label (BENIGN, PortScan, etc.) is at the last column of each row.
 
 The script auto-generates column names as F1, F2, ..., F78.
 
-📫 Contact
+## 📫 Contact
 Developed with 💻 by Chandru Ganesh
-📧 Mail: chandru.yourmail@example.com (update this)
+📧 Mail: chandruganesh00@gmail.com
 🔗 GitHub: Chandru-Ganesh
 
 ⚠️ Disclaimer

@@ -21,7 +21,7 @@ The dataset contained **78 numerical flow features**, extracted using CICFlowMet
 | Component        | Tech Stack                            |
 |------------------|----------------------------------------|
 | 💻 Programming   | Python 3.10+                          |
-| 📚 Libraries     | Pandas, Scikit-learn, NumPy           |
+| 📚 Libraries     | Pandas, Scikit-learn, WireShark       |
 | 🧠 Model         | RandomForestClassifier                |
 | 📦 Deployment    | CLI App (Python script)               |
 | 🐙 Versioning    | Git + GitHub                          |

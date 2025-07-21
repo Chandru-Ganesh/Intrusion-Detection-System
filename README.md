@@ -72,8 +72,8 @@ The script auto-generates column names as F1, F2, ..., F78.
 
 ## 📫 Contact
 Developed with 💻 by Chandru Ganesh :
-📧 Mail: chandruganesh00@gmail.com .
-🔗 GitHub: Chandru-Ganesh.
+- 📧 Mail: chandruganesh00@gmail.com .
+- 🔗 GitHub: Chandru-Ganesh.
 
 ⚠️ Disclaimer
 This project is strictly for educational and research purposes. Do not use it in production environments without proper validation and testing.
